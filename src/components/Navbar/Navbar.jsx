@@ -14,7 +14,7 @@ const Navbar = () => {
       <div className='relative flex-1 left-0 mx-4 '>
         <form>
           <input type='text' placeholder='Search' 
-          className='w-full border border-[#4285f4] py-2 px-4 rounded-[6px]'
+          className='w-full border-2 border-[#4285f4] py-2 px-4 rounded-[6px]'
           />
           <FaSearch className='absolute top-3 right-3 text-red-500'></FaSearch>
         </form>

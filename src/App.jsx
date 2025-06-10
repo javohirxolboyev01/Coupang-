@@ -1,12 +1,12 @@
-import React from 'react'
-import Root from './page/root/Root'
+import React from "react";
+import Root from "./page/root/Root";
 
 const App = () => {
   return (
     <div>
-      <Root/>
+      <Root />
     </div>
-  )
-}
+  );
+};
 
-export default App
+export default App;
